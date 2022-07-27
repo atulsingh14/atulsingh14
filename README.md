@@ -12,5 +12,6 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/atulsingh144#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/atulsingh144#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/atulsingh14/r#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/atulsingh14/r#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/atulsingh14/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/atulsingh14/#gh-dark-mode-only)
+&nbsp;&nbsp;
