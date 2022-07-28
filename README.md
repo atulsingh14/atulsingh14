@@ -6,7 +6,6 @@
 
 <h2 align= "left">Connect with me:</h2>
 
-<div alt="Socials">
 [![website](./img/twitter-light.svg)](https://twitter.com/atulsingh144#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/atulsingh144#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -15,7 +14,6 @@
 &nbsp;&nbsp;
 [![website](./img/telegram-light.svg)](https://telegram.me/atulsingh144/#gh-light-mode-only)
 [![website](./img/telegram-dark.svg)](https://telegram.me/atulsingh144/#gh-dark-mode-only)
-</div>
 
 <h2>Language and Tools:</h2>
 
@@ -25,7 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="./img/c-logo.svg" style="padding-right:10px;">
-<img align="left" alt="Cpp" width="26px" src="./img/cpp-logo.svg" style="padding-right:10px;">
+<img align="left" alt="C" width="26px" src="./image/c-logo.svg" style="padding-right:10px;">
+<img align="left" alt="Cpp" width="26px" src="./image/cpp-logo.svg" style="padding-right:10px;">
 
 </div>
