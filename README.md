@@ -6,14 +6,14 @@
 
 <h2 align= "left">Connect with me:</h2>
 
-[![website](./img/twitter-light.svg)](https://twitter.com/atulsingh144#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/atulsingh144#gh-dark-mode-only)
+[![website](./image/twitter-light.svg)](https://twitter.com/atulsingh144#gh-light-mode-only)
+[![website](./image/twitter-dark.svg)](https://twitter.com/atulsingh144#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/atulsingh14/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/atulsingh14/#gh-dark-mode-only)
+[![website](./image/linkedin-light.svg)](https://linkedin.com/in/atulsingh14/#gh-light-mode-only)
+[![website](./image/linkedin-dark.svg)](https://linkedin.com/in/atulsingh14/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/telegram-light.svg)](https://telegram.me/atulsingh144/#gh-light-mode-only)
-[![website](./img/telegram-dark.svg)](https://telegram.me/atulsingh144/#gh-dark-mode-only)
+[![website](./image/telegram-light.svg)](https://telegram.me/atulsingh144/#gh-light-mode-only)
+[![website](./image/telegram-dark.svg)](https://telegram.me/atulsingh144/#gh-dark-mode-only)
 
 <h2>Language and Tools:</h2>
 
@@ -25,5 +25,5 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="./image/c-logo.svg" style="padding-right:10px;">
 <img align="left" alt="Cpp" width="26px" src="./image/cpp-logo.svg" style="padding-right:10px;">
-
+<img align="left" alt="Python" width="26px" src="./image/python-logo.svg" style="padding-right:10px;">
 </div>
