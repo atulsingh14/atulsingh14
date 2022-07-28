@@ -4,26 +4,31 @@
 - 🧑‍🎓 I'm Currently studying Computer Science at Kiit College of Engg.
 - 👯 I'm looking to collaborate on Open Source Projects
 
+<h2>Language and Tools:</h2>
+<div align="left">
+<img alt="VS code" width="26px" src="./image/VS_code.svg" style="padding-right:10px;" />
+<img alt="HTML5" width="26px" src="./image/HTML5.svg" style="padding-right:10px;" />
+<img alt="CSS3" width="26px" src="./image/CSS3.svg" style="padding-right:10px;" />
+<img alt="Git" width="26px" src="./image/Git.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="./image/Github.svg" style="padding-right:10px;" />
+<img alt="C" width="26px" src="./image/C.svg" style="padding-right:10px;"/>
+<img alt="Cpp" width="26px" src="./image/cplusplus.svg" style="padding-right:10px;"/>
+<img alt="Python" width="26px" src="./image/Python.svg"/>  
+</div>
+
+
+<h2 align="left">Stats:</h2>
+<div align="left">
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&show_icons=true&count_private=true&border_radius=20px"/>
+<!---<img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact/>
+</div>
+-->
 <h2 align= "left">Connect with me:</h2>
 
-[![website](./image/twitter-light.svg)](https://twitter.com/atulsingh144#gh-light-mode-only)
-[![website](./image/twitter-dark.svg)](https://twitter.com/atulsingh144#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./image/linkedin-light.svg)](https://linkedin.com/in/atulsingh14/#gh-light-mode-only)
-[![website](./image/linkedin-dark.svg)](https://linkedin.com/in/atulsingh14/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./image/telegram-light.svg)](https://telegram.me/atulsingh144/#gh-light-mode-only)
-[![website](./image/telegram-dark.svg)](https://telegram.me/atulsingh144/#gh-dark-mode-only)
-
-<h2>Language and Tools:</h2>
-
-<div alt="Coding Languages">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="./image/c-logo.svg" style="padding-right:10px;">
-<img align="left" alt="Cpp" width="26px" src="./image/cpp-logo.svg" style="padding-right:10px;">
-<img align="left" alt="Python" width="26px" src="./image/python-logo.svg" style="padding-right:10px;">
-</div>
+[![website](./image/Twitter.svg)](https://twitter.com/atulsingh144)
+&nbsp;
+[![website](./image/Linkedin.svg)](https://linkedin.com/in/atulsingh14) 
+&nbsp;
+[![website](./image/Telegram.svg)](https://telegram.me/atulsingh144) 
+&nbsp;
+[![website](./image/Gmail.svg)](mailto:atulsingh6839@gmail.com) 
