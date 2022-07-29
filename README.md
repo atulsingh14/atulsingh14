@@ -6,19 +6,19 @@
 
 <h2>Language and Tools:</h2>
 <div align="left">
-<img alt="VS code" width="30px" src="./image/VS_code.svg" style="padding-right:10px;" />
-<img alt="HTML5" width="30px" src="./image/HTML5.svg" style="padding-right:10px;" />
-<img alt="CSS3" width="30px" src="./image/CSS3.svg" style="padding-right:10px;" />
-<img alt="Git" width="30px" src="./image/Git.svg" style="padding-right:10px;" />
-<img alt="GitHub" width="30px" src="./image/Github.svg" style="padding-right:10px;" />
-<img alt="C" width="30px" src="./image/C.svg" style="padding-right:10px;"/>
-<img alt="Cpp" width="30px" src="./image/cplusplus.svg" style="padding-right:10px;"/>
-<img alt="Python" width="30px" src="./image/Python.svg"/>  
+<img alt="VS code" width="40px" src="./image/VS_code.svg" style="padding-right:15px;" />
+<img alt="HTML5" width="40px" src="./image/HTML5.svg" style="padding-right:15px;" />
+<img alt="CSS3" width="40px" src="./image/CSS3.svg" style="padding-right:15px;" />
+<img alt="Git" width="40px" src="./image/Git.svg" style="padding-right:15px;" />
+<img alt="GitHub" width="40px" src="./image/Github.svg" style="padding-right:15px;" />
+<img alt="C" width="40px" src="./image/C.svg" style="padding-right:15px;"/>
+<img alt="Cpp" width="40px" src="./image/cplusplus.svg" style="padding-right:15px;"/>
+<img alt="Python" width="40px" src="./image/Python.svg"/>  
 </div>
 
 <h2 align="left">Stats:</h2>
 <div align="left">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&show_icons=true&count_private=true&border_radius=20px"/>
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&show_icons=true&count_private=true&border_radius=15px"/>
 <!---<img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact/>
 </div>
 -->
