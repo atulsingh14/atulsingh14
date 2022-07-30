@@ -1,3 +1,7 @@
+<div align=right>
+<img src="https://komarev.com/ghpvc/?username=atulsingh14">
+</div>
+
 <h1>Hi there, I am Atul..👋</h1>
 
 - 🏠 I'm from Uttar Pradesh, India
