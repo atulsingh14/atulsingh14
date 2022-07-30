@@ -1,5 +1,5 @@
 <div align=right>
-<img src="https://komarev.com/ghpvc/?username=atulsingh14">
+<img src="https://komarev.com/ghpvc/?username=atulsingh14&style=for-the-badge">
 </div>
 
 <h1>Hi there, I am Atul..👋</h1>
