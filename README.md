@@ -8,7 +8,7 @@
 - 🧑‍🎓 I'm Currently studying Computer Science at Kiit College of Engg.
 - 👯 I'm looking to collaborate on Open Source Projects
 
-<h2>Language and Tools:</h2>
+<h2>Languae and Tools:</h2>
 <div align="left">
 <img alt="VS code" width="40px" src="./image/VS_code.svg" style="padding-right:15px;" />
 <img alt="HTML5" width="40px" src="./image/HTML5.svg" style="padding-right:15px;" />
