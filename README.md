@@ -23,9 +23,9 @@
 <h2 align="left">Stats:</h2>
 <div align="left">
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&show_icons=true&count_private=true&border_radius=15px"/>
-<!---<img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact/>
+<img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact/>
 </div>
--->
+
 <h2 align= "left">Connect with me:</h2>
 
 [![website](./image/Twitter.svg)](https://twitter.com/atulsingh144)
