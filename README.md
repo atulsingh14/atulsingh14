@@ -27,8 +27,8 @@
 
 <h2 align= "left">Connect with me:</h2>
 
-[![website](./image/Twitter.svg)](https://twitter.com/atulsingh144)
-&nbsp;
+<!-- [![website](./image/Twitter.svg)](https://twitter.com/atulsingh144)
+&nbsp; -->
 [![website](./image/Linkedin.svg)](https://linkedin.com/in/atulsingh14) 
 &nbsp;
 [![website](./image/Telegram.svg)](https://telegram.me/atulsingh144) 
