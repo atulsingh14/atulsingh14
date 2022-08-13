@@ -33,4 +33,4 @@
 &nbsp;
 [![website](./image/Telegram.svg)](https://telegram.me/atulsingh144) 
 &nbsp;
-[![website](./image/Gmail.svg)](mailto:atulsingh6839@gmail.com) 
+[![website](./image/Outlook.svg)](mailto:atulsingh6839@outlook.com) 
