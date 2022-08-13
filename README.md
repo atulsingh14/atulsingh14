@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=atulsingh14&style=for-the-badge">
 </div>
 
-<h1>Hi there, I am Atul..👋</h1>
+# Hi there, I am **Atul**..👋
 
 - 🏠 I'm from Uttar Pradesh, India
 - 🧑‍🎓 I'm Currently studying Computer Science at Kiit College of Engg.
