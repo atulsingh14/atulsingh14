@@ -22,6 +22,7 @@
 
 <h2 align="left">Stats:</h2>
 <div align="left">
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&count_private=true&border_radius=15px&hide_border=true"/>
 
 <!-- <img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact&count_private=true/> </div> -->
 
