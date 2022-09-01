@@ -24,15 +24,9 @@
 <div align="left">
 <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&count_private=true&border_radius=15px&hide_border=true"/>
 
-https://github-readme-stats.vercel.app/api?username=atulsingh14&count_private=true
-<!-- <img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact&count_private=true/> </div> -->
-
 <h2 align= "left">Connect with me:</h2>
-
-<!-- [![website](./image/Twitter.svg)](https://twitter.com/atulsingh144)
-&nbsp; -->
 [![website](./image/Linkedin.svg)](https://linkedin.com/in/atulsingh14) 
 &nbsp;
 [![website](./image/Telegram.svg)](https://telegram.me/atulsingh144) 
 &nbsp;
-[![website](./image/Outlook.svg)](mailto:atulsingh6839@outlook.com) 
+[![website](./image/Outlook.svg)](mailto:atulsingh6839@outlook.com)
