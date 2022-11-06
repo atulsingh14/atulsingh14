@@ -10,14 +10,14 @@
 
 <h2>Language and Tools:</h2>
 <div align="left">
-<img alt="VS code" width="40px" src="./image/VS_code.svg" style="padding-right:15px;" />
-<img alt="HTML5" width="40px" src="./image/HTML5.svg" style="padding-right:15px;" />
-<img alt="CSS3" width="40px" src="./image/CSS3.svg" style="padding-right:15px;" />
-<img alt="Git" width="40px" src="./image/Git.svg" style="padding-right:15px;" />
-<img alt="GitHub" width="40px" src="./image/Github.svg" style="padding-right:15px;" />
-<img alt="C" width="40px" src="./image/C.svg" style="padding-right:15px;"/>
-<img alt="Cpp" width="40px" src="./image/cplusplus.svg" style="padding-right:15px;"/>
-<img alt="Python" width="40px" src="./image/Python.svg"/>  
+<img alt="VS code" width="40px" src="./resources/VS_code.svg" style="padding-right:15px;" />
+<img alt="HTML5" width="40px" src="./resources/HTML5.svg" style="padding-right:15px;" />
+<img alt="CSS3" width="40px" src="./resources/CSS3.svg" style="padding-right:15px;" />
+<img alt="Git" width="40px" src="./resources/Git.svg" style="padding-right:15px;" />
+<!-- <img alt="GitHub" width="40px" src="./resources/Github.svg" style="padding-right:15px;" /> -->
+<img alt="C" width="40px" src="./resources/C.svg" style="padding-right:15px;"/>
+<img alt="Cpp" width="40px" src="./resources/cplusplus.svg" style="padding-right:15px;"/>
+<img alt="Python" width="40px" src="./resources/Python.svg"/>  
 </div>
 
 <h2 align="left">Stats:</h2>
@@ -27,10 +27,13 @@
 
 <h2 align= "left">Connect with me:</h2>
 
-<!-- [![website](./image/Twitter.svg)](https://twitter.com/atulsingh144)
+<!-- [![website](./resources/Twitter.svg)](https://twitter.com/atulsingh144)
 &nbsp; -->
-[![website](./image/Linkedin.svg)](https://linkedin.com/in/atulsingh14) 
+
+[![website](./resources/Linkedin.svg)](https://linkedin.com/in/atulsingh14)
 &nbsp;
-[![website](./image/Telegram.svg)](https://telegram.me/atulsingh144) 
+[![website](./resources/Telegram.svg)](https://telegram.me/atulsingh144)
 &nbsp;
-[![website](./image/Outlook.svg)](mailto:atulsingh6839@outlook.com) 
+[![website](./resources/Outlook.svg)](mailto:atulsingh6839@outlook.com)
+&nbsp;
+[![Website](./resources/Github.svg)](https://github.com/atulsingh14)
