@@ -1,39 +1,41 @@
-<div align=right>
-<img src="https://komarev.com/ghpvc/?username=atulsingh14&style=for-the-badge">
-</div>
-
-<h1>Hi there, I am Atul..👋</h1>
+# Hi there, I am **Atul ...👋**
 
 - 🏠 I'm from Uttar Pradesh, India
-- 🧑‍🎓 I'm Currently studying Computer Science at Kiit College of Engg.
+- 🏫 I'm styding Computer Science at Gurugram University
 - 👯 I'm looking to collaborate on Open Source Projects
 
-<h2>Language and Tools:</h2>
-<div align="left">
-<img alt="VS code" width="40px" src="./resources/VS_code.svg" style="padding-right:15px;" />
-<img alt="HTML5" width="40px" src="./resources/HTML5.svg" style="padding-right:15px;" />
-<img alt="CSS3" width="40px" src="./resources/CSS3.svg" style="padding-right:15px;" />
-<img alt="Git" width="40px" src="./resources/Git.svg" style="padding-right:15px;" />
-<!-- <img alt="GitHub" width="40px" src="./resources/Github.svg" style="padding-right:15px;" /> -->
-<img alt="C" width="40px" src="./resources/C.svg" style="padding-right:15px;"/>
-<img alt="Cpp" width="40px" src="./resources/cplusplus.svg" style="padding-right:15px;"/>
-<img alt="Python" width="40px" src="./resources/Python.svg"/>  
-</div>
+## Language and Tools
 
-<h2 align="left">Stats:</h2>
-<div align="left">
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=material-palenight&show_icons=true&count_private=true&border_radius=15px"/>
-<!-- <img alt="Language Used" src=https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact&count_private=true/> </div> -->
+---
 
-<h2 align= "left">Connect with me:</h2>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<!-- [![website](./resources/Twitter.svg)](https://twitter.com/atulsingh144)
-&nbsp; -->
+## I'm Currently Learning
 
-[![website](./resources/Linkedin.svg)](https://linkedin.com/in/atulsingh14)
-&nbsp;
-[![website](./resources/Telegram.svg)](https://telegram.me/atulsingh144)
-&nbsp;
-[![website](./resources/Outlook.svg)](mailto:atulsingh6839@outlook.com)
-&nbsp;
-[![Website](./resources/Github.svg)](https://github.com/atulsingh14)
+---
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Get in Touch
+
+---
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:atulsingh6839@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulsingh14) <br>
+
+## Stats
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&show_icons=true&count_private=true&border_radius=50px">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact&border_radius=50px&hide_progress=false&theme=transparent"> -->
