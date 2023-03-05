@@ -4,6 +4,8 @@
 - 🏫 I'm styding Computer Science at Gurugram University
 - 👯 I'm looking to collaborate on Open Source Projects
 
+&nbsp;
+
 ## Language and Tools
 
 ---
@@ -21,6 +23,7 @@
 
 ---
 
+&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,6 +33,7 @@
 
 ---
 
+&nbsp;
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:atulsingh6839@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulsingh14) <br>
 
@@ -37,5 +41,8 @@
 
 ---
 
+&nbsp;
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&show_icons=true&count_private=true&border_radius=50px">
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact&border_radius=50px&hide_progress=false&theme=transparent"> -->
