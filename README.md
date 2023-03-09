@@ -1,3 +1,9 @@
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&vCenter=true&width=447&lines=WELCOME+TO+MY+PROFILE)](https://git.io/typing-svg) -->
+
+<img align= center  width=divice-width  height = 400px src = "./assets/Main.gif">
+<!-- <![gif](./assets/Main.gif)> -->
+
+<hr>
 # Hi there, I am **Atul ...👋**
 
 - 🏠 I'm from Uttar Pradesh, India
@@ -29,6 +35,8 @@
 
 ## Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&show_icons=true&count_private=true&border_radius=50px">
+<img align="left" width= 400 height = 200 src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&show_icons=true&count_private=true&hide_border=true">
+
+<!-- <img align = right width = "400px" height= "230px" src = "https://github-readme-activity-graph.cyclic.app/graph?username=atulsingh14&theme=tokyonight&border_radius=10px&hide_border=true"> -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulsingh14&layout=compact&border_radius=50px&hide_progress=false&theme=transparent"> -->
