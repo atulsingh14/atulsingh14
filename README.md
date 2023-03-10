@@ -10,20 +10,20 @@
 
 ## Language and Tools
 
-<img alt="VS code" width="40px" src="./assets/VS_code.svg" style="padding-right:10px;" />
-<img alt="HTML5" width="40px" src="./assets/HTML5.svg" style="padding-right:10px;" />
-<img alt="CSS3" width="40px" src="./assets/CSS3.svg" style="padding-right:10px;" />
-<img alt="Git" width="40px" src="./assets/Git.svg" style="padding-right:10px;" />
-<img alt="GitHub" width="40px" src="./assets/GitHub.svg" style="padding-right:10px;" />
-<img alt="Java" width="50px" src="./assets/java.svg" style="padding-right:10px;"/>
-<img alt="C" width="40px" src="./assets/C.svg" style="padding-right:10px;"/>
-<img alt="Cpp" width="40px" src="./assets/cplusplus.svg" style="padding-right:10px;"/>
-<img alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
+<img align= "left" alt="VS code" width="40px" src="./assets/VS_code.svg" style="padding-right:10px;" />
+<img align= "left" alt="HTML5" width="40px" src="./assets/HTML5.svg" style="padding-right:10px;" />
+<img align= "left" alt="CSS3" width="40px" src="./assets/CSS3.svg" style="padding-right:10px;" />
+<img align= "left" alt="Git" width="40px" src="./assets/Git.svg" style="padding-right:10px;" />
+<img align= "left" alt="GitHub" width="40px" src="./assets/GitHub.svg" style="padding-right:10px;" />
+<img align= "left" alt="Java" width="50px" src="./assets/java.svg" style="padding-right:10px;"/>
+<img align= "left" alt="C" width="40px" src="./assets/C.svg" style="padding-right:10px;"/>
+<img align= "left" alt="Cpp" width="40px" src="./assets/cplusplus.svg" style="padding-right:10px;"/>
+<img align= "left" alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
 
 ## I'm Currently Learning
 
-<img alt="JavaScript" width="40px" src="./assets/js.svg" style="padding-right:4px;"/>
-<img alt="React" width="40px" src="./assets/react.svg" style="padding-right:10px;"/>
+<img align= "left" alt="JavaScript" width="40px" src="./assets/js.svg" style="padding-right:4px;"/>
+<img align= "left" alt="React" width="40px" src="./assets/react.svg" style="padding-right:10px;"/>
 
 ## Contact Me
 
