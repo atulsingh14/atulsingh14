@@ -17,8 +17,8 @@
 <img align= "left" alt="GitHub" width="40px" src="./assets/Github.svg" style="padding-right:10px;" />
 <img align= "left" alt="C" width="40px" src="./assets/C.svg" style="padding-right:10px;"/>
 <img align= "left" alt="Cpp" width="40px" src="./assets/cplusplus.svg" style="padding-right:10px;"/>
-<img align=" left" alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
-<img alt="Java" width="40px" src="./assets/java.svg" style="padding-right:10px;"/>
+<img align= "left" alt="Java" width="40px" src="./assets/java.svg" style="padding-right:10px;"/>
+<img alt="Python" width="40px" src="./assets/Python.svg" style="padding-right:10px;"/>
 
 ## I'm Currently Learning
 
