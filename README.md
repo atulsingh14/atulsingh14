@@ -32,4 +32,4 @@
 
 ## Stats
 
-<img align="center" width= 400 height = 200 src="https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&count_private=true&hide_border=true&border_radius=0px">
+<img align= "center" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&hide_border=true">
