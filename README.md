@@ -1,4 +1,4 @@
-<img align= center  width = 830  height = 460px src = "./assets/Main.gif">
+<img align= center  width = 830  height = 450px src = "./assets/Main.gif">
 
 <hr>
 
