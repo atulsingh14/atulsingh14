@@ -33,3 +33,5 @@
 ## Stats
 
 <img align= "center" width = 400 height = 200 src = "https://github-readme-stats.vercel.app/api?username=atulsingh14&show_icons=true&theme=transparent&hide_border=true">
+
+<img align="center" src = "https://streak-stats.demolab.com?user=atulsingh14&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500">
